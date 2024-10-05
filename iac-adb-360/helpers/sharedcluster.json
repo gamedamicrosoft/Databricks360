@@ -11,7 +11,7 @@
         "availability": "ON_DEMAND_AZURE",
         "spot_bid_max_price": -1
     },
-    "node_type_id": "Standard_E4ads_v5",
+    "node_type_id": "Standard_DS15_v2",
     "ssh_public_keys": [],
     "custom_tags": {},
     "spark_env_vars": {
